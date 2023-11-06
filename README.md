@@ -7,11 +7,10 @@
 <a href="https://tryhackme.com/p/xM3lf0yx">
 <img src="https://tryhackme-badges.s3.amazonaws.com/xM3lf0yx.png" alt="TryHackMe">
 </a>
-<br>
 <a href="https://app.hackthebox.com/profile/534673">
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">
+<img src="http://www.hackthebox.eu/badge/image/534673" alt="Hack The Box"></a>
 </a>
-
+<br>
 
 ```
 ╭─safen-A@github
